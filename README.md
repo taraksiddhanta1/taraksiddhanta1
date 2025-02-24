@@ -1,4 +1,5 @@
-- 👋 Hi, I’m # Tarak Siddhanta
+- 👋 Hi, I’m
+# Tarak Siddhanta
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Data Analytics & Data Science 
 - 💞️ I’m looking to collaborate on any analytical projects
